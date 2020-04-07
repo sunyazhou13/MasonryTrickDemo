@@ -1,0 +1,6 @@
+framework module Pods_MasonryTrickDemo {
+  umbrella header "Pods-MasonryTrickDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
